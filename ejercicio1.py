@@ -7,4 +7,5 @@ class Galleta:
     
     def hornear(self):
         print("Esta",self.nombre,"ha sido horneada en forma de",self.forma)
-    
+        print("¡Buen provecho!")
+        
